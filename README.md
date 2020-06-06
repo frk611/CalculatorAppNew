@@ -1,2 +1,2 @@
 # CalculatorAppNew
- A beginers try to make a calculator using Kotlin. Hope you all like it!
+ This is a calculator app (much like an iOS one) made using Kotlin. Basic functions and smipler styles are used for understanding better. Hope you like it
